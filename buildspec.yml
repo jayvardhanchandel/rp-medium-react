@@ -18,3 +18,4 @@ artifacts:
     - appspec.yml
     - scripts/**/*
     - build/**/*
+
